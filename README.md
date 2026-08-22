@@ -36,14 +36,3 @@ Construir uma base sólida em dados — da coleta à modelagem — e conquistar 
 </div>
 
 ##
-
-### 📈 GitHub Stats
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=B-S-D-Silva&show_icons=true&theme=radical" alt="Bruno's GitHub Stats" />
-</div>
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-S-D-Silva&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
-> Se as imagens de stats não carregarem, é porque a API pública do github-readme-stats às vezes fica instável — nesse caso, dá pra hospedar sua própria instância seguindo [esse tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
