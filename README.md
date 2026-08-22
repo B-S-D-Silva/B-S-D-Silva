@@ -14,18 +14,6 @@ Tô construindo minha jornada em tecnologia — atualmente cursando **Análise e
 
 ##
 
-### 🔧 Ferramentas e stacks que venho explorando
-- **Python** — pandas, ETL, scikit-learn
-- **SQL** — DDL, DML, JOINs, modelagem de dados
-- **DuckDB + dbt** — pipelines analíticos
-- **FastAPI** — construção de APIs
-- **JavaScript** — front-end básico e lógica de aplicações
-
-### 📊 Projetos em destaque
-- **Pipeline de Dados Eleitorais (TSE)** — DuckDB + dbt + scikit-learn + FastAPI
-- **ETL de Dados** — Python, pandas e SQLite, com foco em portfólio para vaga de Engenharia de Dados
-- **Calculadora de Faturamento Mensal** — HTML/JS puro, com lógica de acumulação de estado
-
 ### 🎯 Objetivo
 Construir uma base sólida em dados — da coleta à modelagem — e conquistar minha primeira oportunidade como **Engenheiro de Dados**.
 
