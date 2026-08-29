@@ -1,6 +1,6 @@
-## Oiii, eu sou o Bruno! Estudante de ADS e futuro Engenheiro de Dados 🚀
+## Oi, eu sou o Bruno! Estudante de ADS e futuro Engenheiro de Dados 🚀
 
-Tô construindo minha jornada em tecnologia — atualmente cursando **Análise e Desenvolvimento de Sistemas na SPTech**, com foco total em **Engenharia de Dados**. Bora trocar ideia, aprender junto e crescer na área!
+Tô construindo minha jornada em tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas na SPTech**, com foco total em **Engenharia de Dados**.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -15,7 +15,7 @@ Tô construindo minha jornada em tecnologia — atualmente cursando **Análise e
 ##
 
 ### 🎯 Objetivo
-Construir uma base sólida em dados — da coleta à modelagem — e conquistar minha primeira oportunidade como **Engenheiro de Dados**.
+Construir uma base sólida em dados  e conquistar minha primeira oportunidade como **Engenheiro de Dados**.
 
 <div>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
