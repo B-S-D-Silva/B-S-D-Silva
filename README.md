@@ -1,26 +1,52 @@
-## Oi, eu sou o Bruno! Estudante de ADS e futuro Engenheiro de Dados 🚀
+# Bruno Santos da Silva
 
-Tô construindo minha jornada em tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas na SPTech**, com foco total em **Engenharia de Dados**.
+Estudante de **Análise e Desenvolvimento de Sistemas na SPTech**, em formação para atuar com **Engenharia de Dados**.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bruno-Sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+## Sobre mim
 
-##
+Estou desenvolvendo minha base em programação, bancos de dados e ferramentas de desenvolvimento enquanto curso ADS. Busco minha primeira oportunidade na área de dados.
 
-### 🎯 Objetivo
-Construir uma base sólida em dados  e conquistar minha primeira oportunidade como **Engenheiro de Dados**.
+## Tecnologias
 
-<div>
-  <a href="https://www.linkedin.com/in/bruno-santos-da-silva-b728b1349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:bruno.dsilva@sptech.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/B-S-D-Silva" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+**Linguagens e desenvolvimento**
 
-##
+<img alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img alt="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+**Bancos de dados**
+
+<img alt="MySQL" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img alt="SQLite" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+
+**Ferramentas**
+
+<img alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+## Projetos em destaque
+
+- [PREENCHER: nome do projeto e link para o repositório]
+
+## Estudando agora
+
+- Python, JavaScript, HTML e CSS
+- MySQL e SQLite
+- Git
+
+## Objetivo
+
+Consolidar minha base em dados e conquistar minha primeira oportunidade como **Engenheiro de Dados**.
+
+## GitHub Stats
+
+<a href="https://github.com/B-S-D-Silva">
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=B-S-D-Silva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&hide_title=true" alt="Estatísticas do GitHub de B-S-D-Silva">
+</a>
+<a href="https://github.com/B-S-D-Silva">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-S-D-Silva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas por B-S-D-Silva">
+</a>
+
+## Contato
+
+<a href="https://www.linkedin.com/in/bruno-santos-da-silva-b728b1349/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:bruno.dsilva@sptech.school"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge"></a>
+<a href="https://github.com/B-S-D-Silva"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+Para processos seletivos, considere usar também um e-mail pessoal profissional, caso prefira separar contatos acadêmicos e profissionais.
