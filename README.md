@@ -22,7 +22,8 @@ Estou desenvolvendo minha base em programação, bancos de dados e ferramentas d
 
 ## Projetos em destaque
 
-- [PREENCHER: nome do projeto e link para o repositório]
+- [Sprint 1 — SilosTech](https://github.com/ronaldo-minero/silostech)
+- [Sprint 2 — Amonia Sense](https://github.com/B-S-D-Silva/Amonia-Sense)
 
 ## Estudando agora
 
@@ -48,5 +49,3 @@ Consolidar minha base em dados e conquistar minha primeira oportunidade como **E
 <a href="https://www.linkedin.com/in/bruno-santos-da-silva-b728b1349/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:bruno.dsilva@sptech.school"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge"></a>
 <a href="https://github.com/B-S-D-Silva"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-Para processos seletivos, considere usar também um e-mail pessoal profissional, caso prefira separar contatos acadêmicos e profissionais.
