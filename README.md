@@ -39,7 +39,9 @@ Estou desenvolvendo minha base em programação, bancos de dados e ferramentas d
 
 ### Objetivo:
 
+<samp>
 Consolidar minha base em dados e conquistar minha primeira oportunidade como **Engenheiro de Dados**.
+</samp>
 
 <br>
 
