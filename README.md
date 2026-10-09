@@ -67,7 +67,7 @@ Consolidar minha base em dados e conquistar minha primeira oportunidade como **E
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=B-S-D-Silva&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade do GitHub de B-S-D-Silva">
+  <img width="90%" src="https://ghchart.rshah.org/58a6ff/B-S-D-Silva" alt="Calendário de contribuições do GitHub de B-S-D-Silva">
 </p>
 
 <br>
