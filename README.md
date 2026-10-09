@@ -23,9 +23,9 @@
 <br>
 
 ### Sobre mim:
-
+<samp>
 Estou desenvolvendo minha base em programação, bancos de dados e ferramentas de desenvolvimento enquanto curso ADS. Busco minha primeira oportunidade na área de dados.
-
+</samp>
 <br>
 
 ### Projetos em destaque:
