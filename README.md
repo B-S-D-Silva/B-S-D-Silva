@@ -47,17 +47,27 @@ Consolidar minha base em dados e conquistar minha primeira oportunidade como **E
 
 ### GitHub Stats:
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" valign="middle">
   <a href="https://github.com/B-S-D-Silva">
-    <img height="120" src="https://github-readme-stats.vercel.app/api?username=B-S-D-Silva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&hide_title=true" alt="Estatísticas do GitHub de B-S-D-Silva">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=B-S-D-Silva&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Estatísticas do GitHub de B-S-D-Silva">
   </a>
+</td>
+<td align="center" valign="middle">
   <a href="https://github.com/B-S-D-Silva">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-S-D-Silva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas por B-S-D-Silva">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-S-D-Silva&layout=donut-vertical&langs_count=6&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas por B-S-D-Silva">
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=B-S-D-Silva&theme=github-dark&hide_border=true&background=FFFFFF00" alt="Streak do GitHub de B-S-D-Silva">
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=B-S-D-Silva&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade do GitHub de B-S-D-Silva">
 </p>
 
 <br>
