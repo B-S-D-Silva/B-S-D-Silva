@@ -59,7 +59,7 @@ Busco minha primeira oportunidade na área de dados.
 
 <a href="https://github.com/ronaldo-minero/silostech"><img alt="Sprint 1 — SilosTech" src="https://img.shields.io/badge/Sprint%201-SilosTech-0B1F33?style=for-the-badge&labelColor=A5D8FF&logo=github&logoColor=0B1F33"></a>
 <a href="https://github.com/B-S-D-Silva/Amonia-Sense"><img alt="Sprint 2 — Amonia Sense" src="https://img.shields.io/badge/Sprint%202-Amonia%20Sense-0B1F33?style=for-the-badge&labelColor=A5D8FF&logo=github&logoColor=0B1F33"></a>
-<a href="https://github.com/B-S-D-Silva/chessdle"><img alt="Sprint 2 — chessdle" src="https://img.shields.io/badge/Sprint%202-Amonia%20Sense-0B1F33?style=for-the-badge&labelColor=A5D8FF&logo=github&logoColor=0B1F33"></a>
+<a href="https://github.com/B-S-D-Silva/chessdle"><img alt="Sprint 2 — chessdle" src="https://img.shields.io/badge/Sprint%202-chessdle-0B1F33?style=for-the-badge&labelColor=A5D8FF&logo=github&logoColor=0B1F33"></a>
 
 <br>
 <br>
