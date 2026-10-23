@@ -30,13 +30,13 @@
 
 <sub><samp>DADOS E VERSIONAMENTO</samp></sub>
 <br>
-[![Dados e versionamento](https://skillicons.dev/icons?i=mysql,sqlite,git)](https://skillicons.dev)
+[![Dados e versionamento](https://skillicons.dev/icons?i=mysql,postgres,sqlite,git)](https://skillicons.dev)
 
 <br>
 
 <sub><samp>INFRAESTRUTURA</samp></sub>
 <br>
-[![Infraestrutura](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
+[![Infraestrutura](https://skillicons.dev/icons?i=docker,linux,nginx)](https://skillicons.dev)
 
 <br>
 <br>
