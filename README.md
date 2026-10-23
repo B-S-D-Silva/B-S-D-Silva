@@ -31,7 +31,6 @@
 <sub><samp>DADOS E VERSIONAMENTO</samp></sub>
 <br>
 [![Dados e versionamento](https://skillicons.dev/icons?i=mysql,postgres,sqlite,git)](https://skillicons.dev)
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-0B1F33?style=for-the-badge&labelColor=A5D8FF&logo=oracle&logoColor=0B1F33">
 
 <br>
 
