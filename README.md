@@ -24,13 +24,19 @@
 
 <sub><samp>LINGUAGEM</samp></sub>
 <br>
-[![Linguagem](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Linguagem](https://skillicons.dev/icons?i=python,ts)](https://skillicons.dev)
 
 <br>
 
 <sub><samp>DADOS E VERSIONAMENTO</samp></sub>
 <br>
 [![Dados e versionamento](https://skillicons.dev/icons?i=mysql,sqlite,git)](https://skillicons.dev)
+
+<br>
+
+<sub><samp>INFRAESTRUTURA</samp></sub>
+<br>
+[![Infraestrutura](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
 
 <br>
 <br>
