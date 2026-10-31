@@ -92,20 +92,15 @@ minha primeira oportunidade como <b>Engenheiro de Dados</b>.
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" valign="middle">
+<p align="center">
   <a href="https://github.com/B-S-D-Silva">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=B-S-D-Silva&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=12&bg_color=0B1F33&border_color=A5D8FF&title_color=A5D8FF&icon_color=7CC4FA&text_color=E0F2FF" alt="Estatísticas do GitHub de B-S-D-Silva">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=B-S-D-Silva&show_icons=true&hide_border=false&border_radius=12&bg_color=0B1F33&border_color=A5D8FF&title_color=A5D8FF&icon_color=7CC4FA&text_color=E0F2FF&cache_seconds=21600" alt="Estatísticas do GitHub de B-S-D-Silva">
   </a>
-</td>
-<td align="center" valign="middle">
+  &nbsp;
   <a href="https://github.com/B-S-D-Silva">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-S-D-Silva&layout=donut-vertical&langs_count=6&hide_border=false&border_radius=12&bg_color=0B1F33&border_color=A5D8FF&title_color=A5D8FF&text_color=E0F2FF" alt="Linguagens mais usadas por B-S-D-Silva">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-S-D-Silva&layout=compact&langs_count=6&hide_border=false&border_radius=12&bg_color=0B1F33&border_color=A5D8FF&title_color=A5D8FF&text_color=E0F2FF&cache_seconds=21600" alt="Linguagens mais usadas por B-S-D-Silva">
   </a>
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=B-S-D-Silva&background=0B1F33&border=A5D8FF&stroke=2B4A6B&ring=A5D8FF&fire=7CC4FA&currStreakNum=E0F2FF&sideNums=E0F2FF&currStreakLabel=A5D8FF&sideLabels=A5D8FF&dates=9FB8CC&border_radius=12" alt="Streak do GitHub de B-S-D-Silva">
