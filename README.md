@@ -96,12 +96,12 @@ minha primeira oportunidade como <b>Engenheiro de Dados</b>.
 <tr>
 <td align="center" valign="middle">
   <a href="https://github.com/B-S-D-Silva">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=B-S-D-Silva&show_icons=true&hide_border=false&border_radius=12&bg_color=0B1F33&border_color=A5D8FF&title_color=A5D8FF&icon_color=7CC4FA&text_color=E0F2FF" alt="Estatísticas do GitHub de B-S-D-Silva">
+    <img height="190" src="https://github-stats-extended.vercel.app/api?username=B-S-D-Silva&show_icons=true&hide_border=false&border_radius=12&bg_color=0B1F33&border_color=A5D8FF&title_color=A5D8FF&icon_color=7CC4FA&text_color=E0F2FF" alt="Estatísticas do GitHub de B-S-D-Silva">
   </a>
 </td>
 <td align="center" valign="middle">
   <a href="https://github.com/B-S-D-Silva">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-S-D-Silva&layout=donut-vertical&langs_count=6&hide_border=false&border_radius=12&bg_color=0B1F33&border_color=A5D8FF&title_color=A5D8FF&text_color=E0F2FF" alt="Linguagens mais usadas por B-S-D-Silva">
+    <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=B-S-D-Silva&layout=donut-vertical&langs_count=6&hide_border=false&border_radius=12&bg_color=0B1F33&border_color=A5D8FF&title_color=A5D8FF&text_color=E0F2FF" alt="Linguagens mais usadas por B-S-D-Silva">
   </a>
 </td>
 </tr>
